@@ -4,3 +4,4 @@ code
 data
 example
 scripts
+*.pyc
