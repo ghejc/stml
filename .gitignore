@@ -1,7 +1,11 @@
 star-tracker-data.zip
 .ipynb_checkpoints
+bin
+obj
 code
 data
 example
 scripts
 *.pyc
+stml.cbp
+stml.layout
